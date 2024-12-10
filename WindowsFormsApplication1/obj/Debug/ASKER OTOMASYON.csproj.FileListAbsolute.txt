@@ -1,0 +1,46 @@
+c:\users\anil\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\anil\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\anil\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\anil\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\anil\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\anil\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.GenerateResource.Cache
+c:\users\anil\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\anil\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ANIL\Desktop\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.GenerateResource.Cache
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csprojResolveAssemblyReference.cache
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.GenerateResource.Cache
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.AssemblyReference.cache
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.GenerateResource.cache
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.CoreCompileInputs.cache
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\CV ÇALIŞMASI1\C# PROJELERİ\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\ASKER OTOMASYON.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\ASKER OTOMASYON\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
